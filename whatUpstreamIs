@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words.
+An 'upstream' remote is one that is usually a clone of your 'origin' remote. The 'upstream' remote is useful when working with other developers so that everyone can push their work to github.
