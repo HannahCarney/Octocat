@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+The default branch you are given is the 'master branch.' Each commit that is made is pointed to by this branch. If you create another branch it will also point to the commit you are currently on. You can switch between branches using git checkout.
